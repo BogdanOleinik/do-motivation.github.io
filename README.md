@@ -1,39 +1,36 @@
 ---
 layout: default
-title: DO Motivation – Поддержка
+title: DO Motivation – Support
 ---
 
-# 📌 DO Motivation – Поддержка
+# 📌 Do-Motivation – Support
 
-Добро пожаловать в центр поддержки **DO Motivation**!  
-Если у вас возникли вопросы, вы можете связаться с нами:
+Welcome to the **Do-Motivation** Support Center!  
+If you have any questions, feel free to contact us:
 
-📧 **Email:** [your_email@example.com](mailto:your_email@example.com)  
-🌐 **Наш сайт:** [do-motivation.github.io](https://do-motivation.github.io)  
-
----
-
-## ❓ Часто задаваемые вопросы
-
-### 🔹 Как пользоваться приложением?
-1. Установите приложение из App Store.
-2. Создайте аккаунт и настройте цели.
-3. Получайте ежедневную мотивацию и отслеживайте прогресс.
-
-### 🔹 Как отменить подписку?
-- Перейдите в **Настройки iPhone** → **Apple ID** → **Подписки**.
-- Найдите **DO Motivation** и нажмите **Отменить подписку**.
-
-### 🔹 Как связаться с поддержкой?
-Вы можете написать нам на почту **[your_email@example.com](mailto:your_email@example.com)** или оставить отзыв в App Store.
+📧 **Email:** [do.motivation.app@gmail.com](mailto:do.motivation.app@gmail.com)  
 
 ---
 
-## 📲 Социальные сети
+### 🔹 How to Use the App?
+1. Download the app from the App Store.
+2. Set your goals.
+3. Receive daily motivation.
+
+### 🔹 How to Cancel a Subscription?
+- Go to **iPhone Settings** → **Apple ID** → **Subscriptions**.
+- Find **Do-Motivation** and tap **Cancel Subscription**.
+
+### 🔹 How to Contact Support?
+You can email us at **[do.motivation.app@gmail.com](mailto:do.motivation.app@gmail.com)** or leave a review on the App Store.
+
+---
+
+## 📲 Social Media
 
 🔹 **Instagram:** [@do.motivation.app](https://www.instagram.com/do.motivation.app/)  
-🔹 **Telegram:** [t.me/domotivationapp](https://t.me/domotivationapp)  
+🔹 **TikTok:** [@do.motivation.app](https://www.tiktok.com/@do.motivation.app/)  
 
 ---
 
-© 2025 DO Motivation. Все права защищены.
+© 2025 DO Motivation. All rights reserved.
