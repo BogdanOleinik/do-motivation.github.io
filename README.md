@@ -1,7 +1,3 @@
----
-layout: default
-title: DO Motivation – Support
----
 
 # 📌 Do-Motivation – Support
 
