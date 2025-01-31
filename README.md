@@ -29,4 +29,4 @@ You can email us at **[do.motivation.app@gmail.com](mailto:do.motivation.app@gma
 
 ---
 
-© 2025 DO Motivation. All rights reserved.
+© 2025 Do-Motivation. All rights reserved.
